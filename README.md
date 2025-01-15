@@ -1,7 +1,3 @@
-# Siamese-Neural-Networks-for-One-shot-Image-Recognition
-
-This project implements a one-shot classification model for facial recognition using Siamese Neural Networks, inspired by the paper "Siamese Neural Networks for One-shot Image Recognition" by Koch et al., 2015.
-
 # Siamese Neural Networks for One-Shot Facial Recognition
 
 This project implements a one-shot classification model for facial recognition using Siamese Neural Networks, inspired by the paper ["Siamese Neural Networks for One-shot Image Recognition"](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) by Koch et al., 2015.
@@ -76,6 +72,6 @@ Possible extensions include:
 - Using larger, more standardized datasets for improved generalization.
 
 
-For detailed information about the implementation, refer to the [report](Siamese Neural Networks - project report.pdf).
+For detailed information about the implementation, refer to the [report](./Siamese Neural Networks - project report.pdf).
 
 
