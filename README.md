@@ -72,6 +72,6 @@ Possible extensions include:
 - Using larger, more standardized datasets for improved generalization.
 
 
-For detailed information about the implementation, refer to the [report](./Siamese Neural Networks - project report.pdf).
+For detailed information about the implementation, refer to the [report]([./Siamese Neural Networks - project report.pdf](https://github.com/adimaman22/Siamese-Neural-Networks-for-One-shot-Image-Recognition/blob/main/Siamese%20Neural%20Networks%20-%20project%20report.pdf)).
 
 
